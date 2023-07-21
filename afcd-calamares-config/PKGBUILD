@@ -1,7 +1,7 @@
 # Maintainer: mongiaK <mongiaK@outlook.com.com>
 pkgname=afcd-calamares-config
 _destname1="/etc"
-pkgver=23.07
+pkgver=1
 pkgrel=1
 pkgdesc="calamares for AFCD"
 arch=('any')
